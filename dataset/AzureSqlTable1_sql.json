@@ -1,6 +1,10 @@
 {
 	"name": "AzureSqlTable1_sql",
 	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase_datastore",
+			"type": "LinkedServiceReference"
+		},
 		"annotations": [],
 		"type": "AzureSqlTable",
 		"schema": [
