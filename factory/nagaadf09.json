@@ -1,0 +1,9 @@
+{
+	"name": "nagaadf09",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a82d163d-32b3-4a25-a09e-247e4c8523d3",
+		"tenantId": "8279d7f8-4beb-406c-952b-073c9188cb6b"
+	}
+}
